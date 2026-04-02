@@ -157,6 +157,10 @@
 	"gb/misc/gameboyprinter": {"sounds": [{"name":"gb/misc/gameboyprinter", "stream":true}]},
 
 	"gb/sfx/magnettrain": {"sounds": [{"name":"gb/sfx/magnettrain", "stream":true}]},
+	"gb/sfx/2ndplace": {"sounds": [{"name":"gb/sfx/2ndplace", "stream":true}]},
+	"gb/sfx/payday": {"sounds": [{"name":"gb/sfx/payday", "stream":true}]},
+	"gb/sfx/present": {"sounds": [{"name":"gb/sfx/present", "stream":true}]},
+	"gb/sfx/slotmachinestart": {"sounds": [{"name":"gb/sfx/slotmachinestart", "stream":true}]},
 	"gb/sfx/pokemonhealed": {"sounds": [{"name":"gb/sfx/pokemonhealed", "stream":true}]},
 	"gb/sfx/kinesis": {"sounds": [{"name":"gb/sfx/kinesis", "stream":true}]},
 	"gb/sfx/flash": {"sounds": [{"name":"gb/sfx/flash", "stream":true}]},
