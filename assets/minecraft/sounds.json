@@ -229,6 +229,7 @@
 	"ds/misc/halloffame": {"sounds": [{"name":"ds/misc/halloffame", "stream":true}]},
 	"ds/misc/hoohspawn": {"sounds": [{"name":"ds/misc/hoohspawn", "stream":true}]},
 	"ds/misc/lugiaspawn": {"sounds": [{"name":"ds/misc/lugiaspawn", "stream":true}]},
+	"ds/misc/magnettrain": {"sounds": [{"name":"ds/misc/magnettrain", "stream":true}]},
 	"ds/misc/pokewalker": {"sounds": [{"name":"ds/misc/pokewalker", "stream":true}]},
 	"ds/misc/surf": {"sounds": [{"name":"ds/misc/surf", "stream":true}]},
 	"ds/misc/titlescreen": {"sounds": [{"name":"ds/misc/titlescreen", "stream":true}]},
