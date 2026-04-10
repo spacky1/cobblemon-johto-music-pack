@@ -28,6 +28,7 @@
 	"common/radio/route201": {"sounds": [{"name":"common/radio/route201", "stream":true}]},
 	
 
+	"gb/misc/anadventurebeginsintro": {"sounds": [{"name":"gb/misc/anadventurebeginsintro", "stream":true}]},
 	"gb/misc/cyclingintro": {"sounds": [{"name":"gb/misc/cyclingintro", "stream":true}]},
 	"gb/misc/halloffameintro": {"sounds": [{"name":"gb/misc/halloffameintro", "stream":true}]},
 	"gb/areas/burnedtowerintro": {"sounds": [{"name":"gb/areas/burnedtowerintro", "stream":true}]},
@@ -57,7 +58,12 @@
 	"gb/battle/wildpokemonjohtodayintro": {"sounds": [{"name":"gb/battle/wildpokemonjohtodayintro", "stream":true}]},
 	"gb/battle/wildpokemonjohtonightintro": {"sounds": [{"name":"gb/battle/wildpokemonjohtonightintro", "stream":true}]},
 	"gb/battle/wildpokemonkantointro": {"sounds": [{"name":"gb/battle/wildpokemonkantointro", "stream":true}]},
+	"gb/npc/clairintro": {"sounds": [{"name":"gb/npc/clairintro", "stream":true}]},
+	"gb/npc/hurryalongintro": {"sounds": [{"name":"gb/npc/hurryalongintro", "stream":true}]},
+	"gb/npc/hurryalong2intro": {"sounds": [{"name":"gb/npc/hurryalong2intro", "stream":true}]},
+	"gb/npc/professoroakintro": {"sounds": [{"name":"gb/npc/professoroakintro", "stream":true}]},
 	"gb/npc/rivalintro": {"sounds": [{"name":"gb/npc/rivalintro", "stream":true}]},
+	"gb/npc/rival2intro": {"sounds": [{"name":"gb/npc/rival2intro", "stream":true}]},
 	"gb/trainerseyesmeet/beautyintro": {"sounds": [{"name":"gb/trainerseyesmeet/beautyintro", "stream":true}]},
 	"gb/trainerseyesmeet/hikerintro": {"sounds": [{"name":"gb/trainerseyesmeet/hikerintro", "stream":true}]},
 	"gb/trainerseyesmeet/kimonogirlintro": {"sounds": [{"name":"gb/trainerseyesmeet/kimonogirlintro", "stream":true}]},
@@ -110,7 +116,8 @@
 	"gb/areas/tintower": {"sounds": [{"name":"gb/areas/tintower", "stream":true}]},
 	"gb/areas/unioncave": {"sounds": [{"name":"gb/areas/unioncave", "stream":true}]},
 	"gb/areas/victoryroad": {"sounds": [{"name":"gb/areas/victoryroad", "stream":true}]},
-	"gb/cycling": {"sounds": [{"name":"gb/cycling", "stream":true}]},
+	"gb/misc/anadventurebegins": {"sounds": [{"name":"gb/misc/anadventurebegins", "stream":true}]},
+	"gb/misc/cycling": {"sounds": [{"name":"gb/misc/cycling", "stream":true}]},
 	"gb/misc/halloffame": {"sounds": [{"name":"gb/misc/halloffame", "stream":true}]},
 	"gb/areas/burnedtower": {"sounds": [{"name":"gb/areas/burnedtower", "stream":true}]},
 	"gb/areas/icepath": {"sounds": [{"name":"gb/areas/icepath", "stream":true}]},
@@ -158,7 +165,12 @@
 	"gb/battle/wildpokemonjohtoday": {"sounds": [{"name":"gb/battle/wildpokemonjohtoday", "stream":true}]},
 	"gb/battle/wildpokemonjohtonight": {"sounds": [{"name":"gb/battle/wildpokemonjohtonight", "stream":true}]},
 	"gb/battle/wildpokemonkanto": {"sounds": [{"name":"gb/battle/wildpokemonkanto", "stream":true}]},
+	"gb/npc/clair": {"sounds": [{"name":"gb/npc/clair", "stream":true}]},
+	"gb/npc/hurryalong": {"sounds": [{"name":"gb/npc/hurryalong", "stream":true}]},
+	"gb/npc/hurryalong2": {"sounds": [{"name":"gb/npc/hurryalong2", "stream":true}]},
+	"gb/npc/professoroak": {"sounds": [{"name":"gb/npc/professoroak", "stream":true}]},
 	"gb/npc/rival": {"sounds": [{"name":"gb/npc/rival", "stream":true}]},
+	"gb/npc/rival2": {"sounds": [{"name":"gb/npc/rival2", "stream":true}]},
 	"gb/trainerseyesmeet/beauty": {"sounds": [{"name":"gb/trainerseyesmeet/beauty", "stream":true}]},
 	"gb/trainerseyesmeet/hiker": {"sounds": [{"name":"gb/trainerseyesmeet/hiker", "stream":true}]},
 	"gb/trainerseyesmeet/kimonogirl": {"sounds": [{"name":"gb/trainerseyesmeet/kimonogirl", "stream":true}]},
@@ -225,6 +237,7 @@
 	"ds/battle/wildpokemonkanto": {"sounds": [{"name":"ds/battle/wildpokemonkanto", "stream":true}]},
 
 
+	"ds/misc/anadventurebegins": {"sounds": [{"name":"ds/misc/anadventurebegins", "stream":true}]},
 	"ds/misc/cycling": {"sounds": [{"name":"ds/misc/cycling", "stream":true}]},
 	"ds/misc/halloffame": {"sounds": [{"name":"ds/misc/halloffame", "stream":true}]},
 	"ds/misc/hoohspawn": {"sounds": [{"name":"ds/misc/hoohspawn", "stream":true}]},
@@ -236,7 +249,12 @@
 	"ds/misc/wind": {"sounds": [{"name":"ds/misc/wind", "stream":true}]},
 
 
+	"ds/npc/clair": {"sounds": [{"name":"ds/npc/clair", "stream":true}]},
+	"ds/npc/hurryalong": {"sounds": [{"name":"ds/npc/hurryalong", "stream":true}]},
+	"ds/npc/hurryalong2": {"sounds": [{"name":"ds/npc/hurryalong2", "stream":true}]},
+	"ds/npc/professoroak": {"sounds": [{"name":"ds/npc/professoroak", "stream":true}]},
 	"ds/npc/rival": {"sounds": [{"name":"ds/npc/rival", "stream":true}]},
+	"ds/npc/rival2": {"sounds": [{"name":"ds/npc/rival2", "stream":true}]},
 
 
 	"ds/radio/buenaspassword": {"sounds": [{"name":"ds/radio/buenaspassword", "stream":true}]},
