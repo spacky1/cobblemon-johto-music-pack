@@ -98,7 +98,6 @@
 	"gb/radio/pokefluteintro": {"sounds": [{"name":"gb/radio/pokefluteintro", "stream":true}]},
 	"gb/radio/pokemonmarchintro": {"sounds": [{"name":"gb/radio/pokemonmarchintro", "stream":true}]},
 	"gb/radio/profoakspokemontalkintro": {"sounds": [{"name":"gb/radio/profoakspokemontalkintro", "stream":true}]},
-	"gb/victory/gymleaderintro": {"sounds": [{"name":"gb/victory/gymleaderintro", "stream":true}]},
 	"gb/misc/gameboyprinterintro": {"sounds": [{"name":"gb/misc/gameboyprinterintro", "stream":true}]},
 
 
@@ -186,9 +185,12 @@
 	"gb/radio/pokemonmarch": {"sounds": [{"name":"gb/radio/pokemonmarch", "stream":true}]},
 	"gb/radio/profoakspokemontalk": {"sounds": [{"name":"gb/radio/profoakspokemontalk", "stream":true}]},
 	"gb/radio/pokemonlullaby": {"sounds": [{"name":"gb/radio/pokemonlullaby", "stream":true}]},
-	"gb/victory/gymleader": {"sounds": [{"name":"gb/victory/gymleader", "stream":true}]},
 	"gb/misc/gameboyprinter": {"sounds": [{"name":"gb/misc/gameboyprinter", "stream":true}]},
 	"gb/misc/magnettrain": {"sounds": [{"name":"gb/misc/magnettrain", "stream":true}]},
+
+	"gb/victory/gymleader": {"sounds": [{"name":"gb/victory/gymleader", "stream":true}]},
+	"gb/victory/trainer": {"sounds": [{"name":"gb/victory/trainer", "stream":true}]},
+	"gb/victory/wildpokemon": {"sounds": [{"name":"gb/victory/wildpokemon", "stream":true}]},
 
 
 	"ds/areas/battletower": {"sounds": [{"name":"ds/areas/battletower", "stream":true}]},
@@ -313,18 +315,17 @@
 
 	
 	"gb/sfx_global/placepuzzlepiecedown": {"sounds": [{"name":"gb/sfx_global/placepuzzlepiecedown", "stream":true}]},
-
 	"gb/sfx_global/2ndplace": {"sounds": [{"name":"gb/sfx_global/2ndplace", "stream":true}]},
 	"ds/sfx_global/2ndplace": {"sounds": [{"name":"ds/sfx_global/2ndplace", "stream":true}]},
 	"gb/sfx_global/cut": {"sounds": [{"name":"gb/sfx_global/placepuzzlepiecedown", "stream":true, "type":"event"}]},
 	"ds/sfx_global/cut": {"sounds": [{"name":"ds/sfx_global/cut", "stream":true}]},
+	"ds/sfx_global/clang": {"sounds": [{"name":"ds/sfx_global/clang", "stream":true}]},
 	"gb/sfx_global/doorreveal": {"sounds": [{"name":"gb/sfx_global/unknown3a", "stream":true}]},
 	"ds/sfx_global/doorreveal": {"sounds": [{"name":"ds/sfx_global/strength", "stream":true, "type":"event"}]},
 	"gb/sfx_global/elevatorend": {"sounds": [{"name":"gb/sfx_global/elevatorend", "stream":true}]},
 	"ds/sfx_global/elevatorend": {"sounds": [{"name":"ds/sfx_global/elevatorend", "stream":true}]},
 	"gb/sfx_global/enterdoor": {"sounds": [{"name":"gb/sfx_global/enterdoor", "stream":true}]},
 	"ds/sfx_global/enterdoor": {"sounds": [{"name":"ds/sfx_global/enterdoor", "stream":true}]},
-
 	"ds/sfx_global/equipbicycle": {"sounds": [{"name":"ds/sfx_global/equipbicycle", "stream":true}]},
 	"gb/sfx_global/exitbuilding": {"sounds": [{"name":"gb/sfx_global/exitbuilding", "stream":true}]},
 	"ds/sfx_global/exitbuilding": {"sounds": [{"name":"ds/sfx_global/exitbuilding", "stream":true}]},
@@ -334,6 +335,8 @@
 	"ds/sfx_global/fly": {"sounds": [{"name":"ds/sfx_global/fly", "stream":true}]},
 	"gb/sfx_global/kinesis": {"sounds": [{"name":"gb/sfx_global/kinesis", "stream":true}]},
 	"ds/sfx_global/kinesis": {"sounds": [{"name":"ds/sfx_global/kinesis", "stream":true}]},
+	"gb/sfx_global/openfloor": {"sounds": [{"name":"gb/sfx_global/strength", "stream":true, "type":"event"}]},
+	"ds/sfx_global/openfloor": {"sounds": [{"name":"ds/sfx_global/clang", "stream":true, "type":"event"}]},
 	"gb/sfx_global/payday": {"sounds": [{"name":"gb/sfx_global/payday", "stream":true}]},
 	"ds/sfx_global/payday": {"sounds": [{"name":"ds/sfx_global/payday", "stream":true}]},
 	"gb/sfx_global/pokemonhealed": {"sounds": [{"name":"gb/sfx_global/pokemonhealed", "stream":true}]},
