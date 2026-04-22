@@ -187,6 +187,7 @@
 	"gb/radio/pokemonlullaby": {"sounds": [{"name":"gb/radio/pokemonlullaby", "stream":true}]},
 	"gb/misc/gameboyprinter": {"sounds": [{"name":"gb/misc/gameboyprinter", "stream":true}]},
 	"gb/misc/magnettrain": {"sounds": [{"name":"gb/misc/magnettrain", "stream":true}]},
+	"gb/misc/evolution": {"sounds": [{"name":"gb/misc/evolution", "stream":true}]},
 
 	"gb/victory/gymleader": {"sounds": [{"name":"gb/victory/gymleader", "stream":true}]},
 	"gb/victory/trainer": {"sounds": [{"name":"gb/victory/trainer", "stream":true}]},
@@ -241,6 +242,7 @@
 
 	"ds/misc/anadventurebegins": {"sounds": [{"name":"ds/misc/anadventurebegins", "stream":true}]},
 	"ds/misc/cycling": {"sounds": [{"name":"ds/misc/cycling", "stream":true}]},
+	"ds/misc/evolution": {"sounds": [{"name":"ds/misc/evolution", "stream":true}]},
 	"ds/misc/halloffame": {"sounds": [{"name":"ds/misc/halloffame", "stream":true}]},
 	"ds/misc/hoohspawn": {"sounds": [{"name":"ds/misc/hoohspawn", "stream":true}]},
 	"ds/misc/lugiaspawn": {"sounds": [{"name":"ds/misc/lugiaspawn", "stream":true}]},
