@@ -381,6 +381,8 @@
 	"ds/sfx_local/item": {"sounds": [{"name":"ds/sfx_local/item", "stream":true}]},
 	"gb/sfx_local/keyitem": {"sounds": [{"name":"gb/sfx_local/keyitem", "stream":true}]},
 	"ds/sfx_local/keyitem": {"sounds": [{"name":"ds/sfx_local/keyitem", "stream":true}]},
+	"gb/sfx_local/levelup": {"sounds": [{"name":"gb/sfx_local/levelup", "stream":true}]},
+	"ds/sfx_local/levelup": {"sounds": [{"name":"ds/sfx_local/levelup", "stream":true}]},
 	"gb/sfx_local/getegg": {"sounds": [{"name":"gb/sfx_local/getegg", "stream":true}]},
 	"ds/sfx_local/getegg": {"sounds": [{"name":"ds/sfx_local/getegg", "stream":true}]},
 	"gb/sfx_local/gettm": {"sounds": [{"name":"gb/sfx_local/gettm", "stream":true}]},

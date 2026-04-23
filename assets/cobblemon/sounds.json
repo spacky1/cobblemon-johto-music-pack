@@ -1,0 +1,4 @@
+{
+	"gui.levelup": {"replace":true, "sounds": []},
+	"poke_ball.capture_succeeded": {"replace":true, "sounds": []}
+}
