@@ -192,6 +192,7 @@
 	"gb/victory/gymleader": {"sounds": [{"name":"gb/victory/gymleader", "stream":true}]},
 	"gb/victory/trainer": {"sounds": [{"name":"gb/victory/trainer", "stream":true}]},
 	"gb/victory/wildpokemon": {"sounds": [{"name":"gb/victory/wildpokemon", "stream":true}]},
+	"gb/victory/wildpokemonshort": {"sounds": [{"name":"gb/victory/wildpokemonshort", "stream":true}]},
 
 
 	"ds/areas/battletower": {"sounds": [{"name":"ds/areas/battletower", "stream":true}]},
@@ -314,6 +315,7 @@
 	"ds/victory/gymleader": {"sounds": [{"name":"ds/victory/gymleader", "stream":true}]},
 	"ds/victory/trainer": {"sounds": [{"name":"ds/victory/trainer", "stream":true}]},
 	"ds/victory/wildpokemon": {"sounds": [{"name":"ds/victory/wildpokemon", "stream":true}]},
+	"ds/victory/wildpokemonshort": {"sounds": [{"name":"ds/victory/wildpokemonshort", "stream":true}]},
 
 	
 	"gb/sfx_global/placepuzzlepiecedown": {"sounds": [{"name":"gb/sfx_global/placepuzzlepiecedown", "stream":true}]},
