@@ -226,6 +226,7 @@
 
 	"ds/battle/champion": {"sounds": [{"name":"ds/battle/champion", "stream":true}]},
 	"ds/battle/entei": {"sounds": [{"name":"ds/battle/entei", "stream":true}]},
+	"ds/battle/frontierbrain": {"sounds": [{"name":"ds/battle/frontierbrain", "stream":true}]},
 	"ds/battle/gymleaderjohto": {"sounds": [{"name":"ds/battle/gymleaderjohto", "stream":true}]},
 	"ds/battle/gymleaderkanto": {"sounds": [{"name":"ds/battle/gymleaderkanto", "stream":true}]},
 	"ds/battle/hooh": {"sounds": [{"name":"ds/battle/hooh", "stream":true}]},
@@ -312,6 +313,7 @@
 	"ds/trainerseyesmeet/youngster": {"sounds": [{"name":"ds/trainerseyesmeet/youngster", "stream":true}]},
 
 	
+	"ds/victory/frontierbrain": {"sounds": [{"name":"ds/victory/frontierbrain", "stream":true}]},
 	"ds/victory/gymleader": {"sounds": [{"name":"ds/victory/gymleader", "stream":true}]},
 	"ds/victory/trainer": {"sounds": [{"name":"ds/victory/trainer", "stream":true}]},
 	"ds/victory/wildpokemon": {"sounds": [{"name":"ds/victory/wildpokemon", "stream":true}]},
