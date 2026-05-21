@@ -1,0 +1,42 @@
+name: Nightly build
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+env:
+  NIGHTLY_TAG: "nightly"
+  NIGHTLY_NAME: "nightly"
+  NIGHTLY_BODY: "This is an automatic nightly release."
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v6.0.2
+
+    - name: Compress pack
+      run: |
+        zip -r CobblemonJohtoMusicPack.zip assets pack.mcmeta pack.png
+    
+    - name: Update nightly tag
+      run: |
+        git tag $NIGHTLY_TAG -f
+        git push origin $NIGHTLY_TAG -f
+
+    - name: Create release if it doesn't exist
+      run: |
+        gh release view $NIGHTLY_TAG || gh release create $NIGHTLY_TAG --title "$NIGHTLY_NAME" --notes "$NIGHTLY_BODY"
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Upload release assets
+      run: |
+        gh release upload $NIGHTLY_TAG CobblemonJohtoMusicPack.zip --clobber
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
