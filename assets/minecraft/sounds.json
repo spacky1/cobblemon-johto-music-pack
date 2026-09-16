@@ -12,6 +12,7 @@
 	"common/cries/latios": {"sounds": [{"name":"common/cries/latios", "stream":true}]},
 	"common/cries/lugia": {"sounds": [{"name":"common/cries/lugia", "stream":true}]},
 	"common/cries/mewtwo": {"sounds": [{"name":"common/cries/mewtwo", "stream":true}]},
+	"common/cries/miltank": {"sounds": [{"name":"common/cries/miltank", "stream":true}]},
 	"common/cries/moltres": {"sounds": [{"name":"common/cries/moltres", "stream":true}]},
 	"common/cries/raikou": {"sounds": [{"name":"common/cries/raikou", "stream":true}]},
 	"common/cries/snorlax": {"sounds": [{"name":"common/cries/snorlax", "stream":true}]},
@@ -391,7 +392,7 @@
 	"ds/sfx_local/getegg": {"sounds": [{"name":"ds/sfx_local/getegg", "stream":true}]},
 	"gb/sfx_local/gettm": {"sounds": [{"name":"gb/sfx_local/gettm", "stream":true}]},
 	"ds/sfx_local/gettm": {"sounds": [{"name":"ds/sfx_local/gettm", "stream":true}]},
-
+	"gb/sfx_local/giftedmon": {"sounds": [{"name":"gb/sfx_local/keyitem", "stream":true, "type":"event"}]},
 	"ds/sfx_local/giftedmon": {"sounds": [{"name":"ds/sfx_local/giftedmon", "stream":true}]},
 	"gb/sfx_local/itemfinder": {"sounds": [{"name":"gb/sfx_local/itemfinder", "stream":true}]},
 
