@@ -377,7 +377,7 @@
 	"gb/sfx_local/pokemonhealed": {"sounds": [{"name":"gb/sfx_local/pokemonhealed", "stream":true}]},
 	"ds/sfx_local/pokemonhealed": {"sounds": [{"name":"ds/sfx_local/pokemonhealed", "stream":true}]},
 	"gb/sfx_local/pokemontraded": {"sounds": [{"name":"gb/sfx_local/dexfanfare80109", "stream":true}]},
-	"ds/sfx_local/pokemontraded": {"sounds": [{"name":"ds/sfx_local/dexfanfare80109", "stream":true}]},
+	"ds/sfx_local/pokemontraded": {"sounds": [{"name":"ds/sfx_local/caughtmon", "stream":true, "type":"event"}]},
 	"gb/sfx_local/flash": {"sounds": [{"name":"gb/sfx_local/flash", "stream":true}]},
 
 	"gb/sfx_local/caughtmon": {"sounds": [{"name":"gb/sfx_local/caughtmon", "stream":true}]},
